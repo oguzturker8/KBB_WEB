@@ -1,3 +1,4 @@
+#### Contact me via mail for the api details & authorization
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
